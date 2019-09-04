@@ -1,1 +1,3 @@
 This is test2.txt file
+
+I am updating the test2.txt to test the pull command
